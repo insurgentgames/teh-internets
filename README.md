@@ -1,7 +1,7 @@
 teh internets - When Memes Attack
 =================================
 
-teh internets is a (cyber)space shooter of epic proportions, written in Objective-C using cocos2d-iphone. It's available in the iOS App Store at: itms://itunes.apple.com/us/app/teh-internets-when-memes-attack/id340742593?mt=8
+teh internets is a (cyber)space shooter of epic proportions, written in Objective-C using cocos2d-iphone. It's available in the iOS App Store at: http://itunes.apple.com/us/app/teh-internets-when-memes-attack/id340742593?mt=8
 
 You can see video, screenshots, and more details at: http://www.insurgentgames.com/teh-internets/
 
@@ -34,5 +34,5 @@ Now, several years later, Micah works for the Electronic Frontier Foundation def
 
 Since we're not working on the games anymore, we decided to release them to the community where maybe they can thrive and be reborn as bigger and better things. All of our games are licensed under the GNU General Public License.
 
-Follow Micah on Twitter: https://twitter.com/#!/micahflee
-Follow Insurgent Games on Twitter: https://twitter.com/#!/insurgentgames
+* Follow Micah on Twitter: https://twitter.com/#!/micahflee
+* Follow Insurgent Games on Twitter: https://twitter.com/#!/insurgentgames
