@@ -1,7 +1,7 @@
 teh internets - When Memes Attack
 =================================
 
-teh internets is a (cyber)space shooter of epic proportions, written in Objective-C using cocos2d-iphone. It'd available in the iOS App Store at: itms://itunes.apple.com/us/app/teh-internets-when-memes-attack/id340742593?mt=8
+teh internets is a (cyber)space shooter of epic proportions, written in Objective-C using cocos2d-iphone. It's available in the iOS App Store at: itms://itunes.apple.com/us/app/teh-internets-when-memes-attack/id340742593?mt=8
 
 You can see video, screenshots, and more details at: http://www.insurgentgames.com/teh-internets/
 
@@ -33,3 +33,6 @@ Insurgent Games was founded in 2009 by Micah Lee and Crystal Mayer out of their 
 Now, several years later, Micah works for the Electronic Frontier Foundation defending internet users from evil (https://www.eff.org/files/xkcd_comic.png), and Crystal is a freelance web designer (http://moonsprocket.com/). But Insurgent Games is dormant.
 
 Since we're not working on the games anymore, we decided to release them to the community where maybe they can thrive and be reborn as bigger and better things. All of our games are licensed under the GNU General Public License.
+
+Follow Micah on Twitter: https://twitter.com/#!/micahflee
+Follow Insurgent Games on Twitter: https://twitter.com/#!/insurgentgames
